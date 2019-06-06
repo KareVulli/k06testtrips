@@ -6,3 +6,5 @@ Koosta liidesele main-alamprogrammi abil kasutajaliides
 
 Lisa samale liidesele vastav teine klass, kus andmeid hoitakse muul moel
   (nt. failis, ühemõõtmelises massiivis, kahemõõtmelises massiivis, PHP/Node abil veebifailina)
+
+  Peamine fail asub siin https://github.com/KareVulli/k06testtrips
